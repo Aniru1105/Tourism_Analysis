@@ -41,7 +41,7 @@ This project analyzes Telangana’s public tourism data to uncover trends, optim
                                   [DOMESTIC VISITORS CSV FILE](https://github.com/Aniru1105/Tourism_Analysis/blob/main/domestic_visitors_final.csv) AND
                                   [FOREIGN VISITORS CSV FILE](https://github.com/Aniru1105/Tourism_Analysis/blob/main/Foreign_visitors_final.csv)
 2. **PowerBI(pbix) file** -[PBIX FILE](https://app.powerbi.com/groups/me/reports/65df35ee-21cf-46f4-9350-fd2f8fff4a42/37e49f65a6dbd776ecff?experience=power-bi) : *NEED POWER BI TO OPEN THIS* AND
-                           [PBIX PNG FILE DOMESTIC ](https://github.com/Aniru1105/Tourism_Analysis/blob/main/tourism%20ss.png)
+                           [PBIX PNG FILE DOMESTIC ](https://github.com/Aniru1105/Tourism_Analysis/blob/main/tou.png)
                            [PBIX PNG FILE FOREIGN ](https://github.com/Aniru1105/Tourism_Analysis/blob/main/Foreign%20ss.png) 
 3. **Powerpoint file** -[POWERPOINT PPT FILE](https://github.com/Aniru1105/Tourism_Analysis/blob/main/Microsoft-Power-BI-Tourism%20Telangana.pptx) : *MUST HAVE AN POWERBI ACCOUNT TO OPEN THIS*
 4. **PDF file** - [PDF FORM FILE](https://github.com/Aniru1105/Tourism_Analysis/blob/main/State_tourism.pdf)
