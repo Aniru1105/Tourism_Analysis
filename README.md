@@ -1,2 +1,2 @@
 # Tourism_Analysis
-Tourism Analysis of Andhrapradesh tourism
+Tourism Analysis of Telangana tourism
