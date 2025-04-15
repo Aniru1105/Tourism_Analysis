@@ -1,0 +1,21 @@
+--                                              : # to MERGE TABLE OF DOMESTIC VISITORS # :
+-- CREATE TABLE `tourism_db`.`domestic_visitors_final` (
+--     district TEXT NULL,
+--     date TEXT NULL,
+--     month TEXT NULL,
+--     year INT NULL,
+--     visitors INT NULL
+-- );
+-- THEN I EXPORTED DATA BY MERGING IT ONE BY ONE (4 TABLES OF DOMESTIC INTO ONE ) :
+-- CREATE TABLE domestic_visitors_combined AS
+-- SELECT * FROM domestic_visitors_2016
+-- UNION ALL
+-- SELECT * FROM domestic_visitors_2017
+-- UNION ALL
+-- SELECT * FROM domestic_visitors_2018
+-- UNION ALL
+-- SELECT * FROM domestic_visitors_2019;
+-- USE THE PROVIDED QUERY, OR MANUALLY MERGE TABLES VIA THE NAVIGATION BAR UNDER TOURISM_DB. RIGHT-CLICK, SELECT TABLE DATA IMPORT WIZARD,
+-- AND FOLLOW THE STEPS. IF MERGING INTO AN EXISTING TABLE (E.G., DOMESTIC_VISITOR), ENSURE COLUMNS MATCH EXACTLY IN NAME AND DETAILS.
+-- ---------------------------------------------------------------------------------------------------------------------------------------------
+--                                              : # DETAILS AND QUERY FOR DOMESTIC _VISITORS_FINAL # :
